@@ -1,2 +1,1 @@
-# PrepCourse-Full-Stack
-Repositorio de prueba
+Este repositorio es de prueba
